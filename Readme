@@ -4,4 +4,5 @@
 # The project is a maven project
 # This is a utility project which provides helpfull function
 # It can be added has a dependencies to be used by other program
-# In order to push that librairie into your maven repository consider run a `mvn clean install`
+# In order to push that librairie into your maven repository consider to run a `mvn clean install`
+# You can also find the jar into the target directory
